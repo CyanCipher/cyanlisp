@@ -13,10 +13,11 @@ CyanLisp is a lightweight interpreter for a Lisp-like programming language, desi
 ## Getting Started
 
 > 🛠️ Instructions for building and running CyanLisp go here
+!TO-DO
 
 ## Example
 
 ```lisp
-(define square (lambda (x) (* x x)))
-(square 5)  ; => 25
-
+( <operator> <number> <number> )
+(+ 2 3)
+```
